@@ -32,8 +32,8 @@ rafarngt = {
 ```
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center"><em>Connect with me:</em></h3>
+<p align="center">
 <a href="https://dev.to/rafarngt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rafarngt" height="30" width="40" /></a>
 <a href="https://twitter.com/rafarngt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafarngt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rafael-noriega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-noriega" height="30" width="40" /></a>
@@ -42,9 +42,10 @@ rafarngt = {
 <a href="https://medium.com/@rafarngt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rafarngt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rafaelnoriega24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rafaelnoriega24" height="30" width="40" /></a>
 </p>
-
-<img align='center' src="https://media0.giphy.com/media/mCRJDo24UvJMA/200.webp?cid=ecf05e47id263tghhdz9ctoybkhr5k5lqs47pu1cywsu23sj&rid=200.webp&ct=g" width="300">
+<br>
+<div align="center">
+<img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ2YTJueGRwN3N5OW5qaHFjNG1tNmFpZ3N0aDR5a3IyNDc5NXpsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMukICnMEZmSf8zvXd/giphy.gif" width="300">
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
+</div>
 
